@@ -1,0 +1,8 @@
+$ curl -s https://api.github.com/repos/26se09ds008-iu/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
