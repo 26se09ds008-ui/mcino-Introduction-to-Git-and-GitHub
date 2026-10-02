@@ -1,0 +1,4 @@
+cd mcino-Introduction-to-Git-and-GitHub
+git fetch --all
+git branch -a
+git status
